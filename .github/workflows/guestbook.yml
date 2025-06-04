@@ -6,6 +6,8 @@ on:
     types: [created, edited, deleted]
 
 name: Guestbook
+permissions:
+  contents: write
 
 jobs:
   update_guestbook:
