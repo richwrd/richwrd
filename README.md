@@ -67,6 +67,7 @@ Sou um **DevOps Engineer** apaixonado por infraestrutura de alta disponibilidade
 
 ### 📈 Estatísticas
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richwrd&layout=compact&theme=tokyonight" alt="Top Langs" />
   <br /><br />
@@ -75,8 +76,34 @@ Sou um **DevOps Engineer** apaixonado por infraestrutura de alta disponibilidade
 
 ---
 
+### ⚡ Vibes
+
+
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/richwrd/richwrd/issues/1" target="_blank">
+       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnp0dTU0NTl1ZXk1dTVhZTNyNnhiZjR6dnc2Yjdxbnh6cWI5M2tqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wYjm7TFpzIcn7K8025/giphy.gif" alt="vibe" width="300" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/richwrd/richwrd/issues/1" target="_blank">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGYzZTQwODJtZmh2OWRsYXg2dnAyZjFjY3ltMXJkNHE4MTlsdTBvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ydMElLbfD72yA/giphy.gif" alt="energy" width="300" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/richwrd/richwrd/issues/1" target="_blank">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQyZHE4b3pxeGV2anBkdHZoeXZpc3V3OG55NWt5amd0bHluZmd1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/56ikf9jD4ZK6s/giphy.gif" alt="cat" width="300" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
 | <a href="https://github.com/richwrd"><img width="24" src="https://avatars.githubusercontent.com/u/93017695?s=24&u=503bf4c39a3b32c8382d2802afbaad1f9d6e6350&v=4" alt="richwrd" /> richwrd</a> |6/4/2025, 11:28:42 PM|autoomatico, comenta aew|
+| <a href="https://github.com/richwrd"><img width="24" src="https://avatars.githubusercontent.com/u/93017695?s=24&u=503bf4c39a3b32c8382d2802afbaad1f9d6e6350&v=4" alt="richwrd" /> richwrd</a> |6/4/2025, 11:01:32 PM|NAO PIRA|
 <!-- /Guestbook -->
