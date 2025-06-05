@@ -1,6 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou Eduardo Richard</h1>
 <h3 align="center">DevOps Engineer especializado em PostgreSQL, infraestrutura e automações</h3>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=richwrd&label=Profile%20views&color=0e75b6&style=flat" alt="richwrd" />
 </p>
@@ -45,21 +46,93 @@ Sou um **DevOps Engineer** apaixonado por infraestrutura de alta disponibilidade
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+[tech_tools_anchor]: #🛠️-tecnologias-e-ferramentas
 
 <div align="center">
 
 🧠 **Linguagens & Frameworks**  
-`Python` · `Typescript` · `NestJS` · `React Native` · `Zsh` · `PL/pgSQL` · `Bash` · `Tkinter`
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=E0234E" alt="NestJS logo" title="NestJS" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Zsh-282C34?logo=gnubash&logoColor=4EAA25" alt="Zsh logo" title="Zsh" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/PL/pgSQL-282C34?logo=postgresql&logoColor=336791" alt="PLpgSQL logo" title="PL/pgSQL" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Bash-282C34?logo=gnu-bash&logoColor=4EAA25" alt="Bash logo" title="Bash" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Tkinter-282C34?logo=python&logoColor=3776AB" alt="Tkinter logo" title="Tkinter (Python GUI)" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium&logoColor=43B02A" alt="Selenium logo" title="Selenium" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Pytest-282C34?logo=pytest&logoColor=0A9EDC" alt="Pytest logo" title="Pytest" height="25" />][tech_tools_anchor]
+
+<br>
 
 🐘 **Banco de Dados & Ferramentas**  
-`PostgreSQL` · `Patroni` · `Pgpool-II` · `etcd` · `PostGIS` · `SQLAlchemy` · `Triggers` · `MinIO` · `S3`
+[<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=336791" alt="PostgreSQL logo" title="PostgreSQL" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Patroni-282C34?logo=postgresql&logoColor=336791" alt="Patroni logo" title="Patroni" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Pgpool--II-282C34?logo=postgresql&logoColor=336791" alt="Pgpool-II logo" title="Pgpool-II" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/etcd-282C34?logo=etcd&logoColor=2383F7" alt="etcd logo" title="etcd" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/PostGIS-282C34?logo=postgis&logoColor=F8DC75" alt="PostGIS logo" title="PostGIS" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/SQLAlchemy-282C34?logo=python&logoColor=3776AB" alt="SQLAlchemy logo" title="SQLAlchemy" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Triggers-282C34?logo=postgresql&logoColor=336791" alt="Triggers logo" title="PostgreSQL Triggers" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Views Materializadas-282C34?logo=postgresql&logoColor=336791" alt="Views logo" title="Views Materializadas" height="25" />][tech_tools_anchor]
+
+<br>
 
 🛠️ **DevOps & Infraestrutura**  
-`Linux (CentOS/Debian)` · `Docker` · `Docker Compose` · `Nginx` · `AWS EC2` · `Oracle VPS` · `Grafana Agent` · `Prometheus` · `Grafana` · `Loki`
+[<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Docker Compose-282C34?logo=docker&logoColor=2496ED" alt="Docker Compose logo" title="Docker Compose" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx&logoColor=009639" alt="Nginx logo" title="Nginx" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/AWS EC2-282C34?logo=amazon-ec2&logoColor=FF9900" alt="AWS EC2 logo" title="AWS EC2" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Oracle VPS-282C34?logo=oracle&logoColor=F80000" alt="Oracle VPS logo" title="Oracle VPS" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Grafana Agent-282C34?logo=grafana&logoColor=F46800" alt="Grafana Agent logo" title="Grafana Agent" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Prometheus-282C34?logo=prometheus&logoColor=E6522C" alt="Prometheus logo" title="Prometheus" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Grafana-282C34?logo=grafana&logoColor=F46800" alt="Grafana logo" title="Grafana" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Loki-282C34?logo=grafana-loki&logoColor=FFCC00" alt="Loki logo" title="Loki" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Mimir-282C34?logo=grafana&logoColor=F46800" alt="Mimir logo" title="Grafana Mimir" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/vSphere-282C34?logo=vmware&logoColor=607078" alt="vSphere logo" title="VMware vSphere" height="25" />][tech_tools_anchor]
+
+<br>
 
 📊 **ETL & GIS**  
-`GDAL` · `Mapbox` · `Jasper Reports` · `Ferramentas ETL` · `JSON`
+[<img src="https://img.shields.io/badge/GDAL-282C34?logo=python&logoColor=3776AB" alt="GDAL logo" title="GDAL" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Mapbox-282C34?logo=mapbox&logoColor=000000" alt="Mapbox logo" title="Mapbox" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Jasper Reports-282C34?logo=java&logoColor=E76F00" alt="Jasper Reports logo" title="Jasper Reports" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Ferramentas ETL-282C34?logo=databricks&logoColor=FF3621" alt="ETL Tools logo" title="Ferramentas ETL" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/JSON-282C34?logo=json&logoColor=000000" alt="JSON logo" title="JSON" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Pentaho-282C34?logo=pentaho&logoColor=0089D6" alt="Pentaho logo" title="Pentaho Data Integration" height="25" />][tech_tools_anchor]
 
 </div>
 
@@ -74,9 +147,10 @@ Sou um **DevOps Engineer** apaixonado por infraestrutura de alta disponibilidade
   <img src="https://github-readme-stats.vercel.app/api?username=richwrd&show_icons=true&theme=tokyonight" alt="Stats" />
 </p>
 
+
 ---
 
-
+ 
 ### ⚡ Vibes
 
 
@@ -107,3 +181,17 @@ Sou um **DevOps Engineer** apaixonado por infraestrutura de alta disponibilidade
 |---|---|---|
 | <a href="https://github.com/richwrd"><img width="24" src="https://avatars.githubusercontent.com/u/93017695?s=24&u=503bf4c39a3b32c8382d2802afbaad1f9d6e6350&v=4" alt="richwrd" /> richwrd</a> |6/5/2025, 12:05:28 AM|Muito dhr! slc|
 <!-- /Guestbook -->
+
+---
+
+<table align="center">
+  <tr>
+    <th>⏰ UTC Time</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://jojoee.jojoee.com/api/utcnowgif?utcnow" alt="Current UTC time" />
+    </td>
+  </tr>
+</table>
+
