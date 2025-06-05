@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=richwrd&theme=gruvbox&row=1&column=7" alt="richwrd" />
+    <img src="https://github-profile-trophy.vercel.app/?username=richwrd&theme=matrix&row=1&column=7" alt="richwrd" />
   </a>
 </p>
 
@@ -76,6 +76,7 @@ Sou um **DevOps Engineer** apaixonado por infraestrutura de alta disponibilidade
 
 ---
 
+
 ### ⚡ Vibes
 
 
@@ -84,7 +85,7 @@ Sou um **DevOps Engineer** apaixonado por infraestrutura de alta disponibilidade
   <tr>
     <td>
       <a href="https://github.com/richwrd/richwrd/issues/1" target="_blank">
-       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnp0dTU0NTl1ZXk1dTVhZTNyNnhiZjR6dnc2Yjdxbnh6cWI5M2tqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wYjm7TFpzIcn7K8025/giphy.gif" alt="vibe" width="300" />
+       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTM2b2d2MGtieXd3MDcxYmVqdmVwendleGZvbng0dG1kcWRwdHM3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sJFJMtc02OUSaReO0M/giphy.gif" alt="vibe" width="300" />
       </a>
     </td>
     <td>
