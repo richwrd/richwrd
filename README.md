@@ -165,7 +165,7 @@ const eduardoRichard = {
 
   <blockquote>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</blockquote>
   
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Richwrd's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=richwrd&theme=merko&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Richwrd's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=richwrd&theme=merko&point=FFFFFF&hide_border=true&radius=10" /></a>
 
 </details>
 <br>
