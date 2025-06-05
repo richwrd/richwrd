@@ -1,5 +1,9 @@
-<h1 align="center">👋 Olá! Eu sou Eduardo Richard</h1>
-<h3 align="center">Sou engenheiro de software, apaixonado por DevOps, PostgreSQL HA e automações em Python.</h3>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=1D7AB4&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%91%8B+Hi!+I%60am+Eduardo+Richard" alt="Typing SVG" /></a></h1>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=B7D364&center=true&vCenter=true&width=435&lines=%2B3+Years+Code+Experience;Experienced+Relational+Databases;Experienced+NestJS+BackEnd;Experienced+Python+Development;Experienced+Cloud+Manager;Experienced+Data+Integrations;Always+learning+new+things" alt="Typing SVG" /></a>
+</div>
+
 
 <br>
 
@@ -21,9 +25,12 @@
   </a>
 </p>
 
----
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim...
+
+<br>
+
+<h1 align='center'> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... </h1>
+
 
 ```javascript
 
@@ -107,18 +114,25 @@ const eduardoRichard = {
 
 ```
 
----
+<br>
 
-### 📫 Como falar comigo:
+<h1 align="center">📫 Como falar comigo:</h1>
 
-- 💌 **eduardorichwrd@gmail.com**
-- 💬 [Discord](https://discord.gg/CbsNwUh5wz)
-- ✍️ [Dev.to](https://dev.to/richwrd.dev)
+<br>
+
+<p align="center" style="font-size: 1.2rem; line-height: 2.2;">
+  💌 <a href="mailto:eduardorichwrd@gmail.com" style="text-decoration:none; color: inherit;">eduardorichwrd@gmail.com</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  💬 <a href="https://discord.gg/CbsNwUh5wz" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color: inherit;">Discord</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  ✍️ <a href="https://dev.to/richwrd.dev" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color: inherit;">Dev.to</a>
+</p>
+
+<br>
 
 
----
+<h1 align='center'> 📈 Estatísticas </h1>
 
-### 📈 Estatísticas
+<br>
+ 
 
 <div align="center">
 
@@ -127,13 +141,13 @@ const eduardoRichard = {
 
 </div>
 
-
----
-
+<br>
  
-### ⚡ Vibes & Comments
+<h1 align='center'> 🌈 Vibes & Comments 📝 </h1>
 
 
+<br>
+ 
 <div align="center">
 
 
@@ -171,8 +185,10 @@ const eduardoRichard = {
 
 </div>
 
----
+<br>
 
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 <table align="center">
   <tr>
     <th>⏰ UTC Time</th>
@@ -183,4 +199,6 @@ const eduardoRichard = {
     </td>
   </tr>
 </table>
-
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
