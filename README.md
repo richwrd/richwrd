@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=1D7AB4&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%91%8B+Hi!+I%60am+Eduardo+Richard" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%91%8B+Hi!+I%60am+Eduardo+Richard" alt="Typing SVG" /></a></h1>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=B7D364&center=true&vCenter=true&width=435&lines=%2B3+Years+Code+Experience;Experienced+Relational+Databases;Experienced+NestJS+BackEnd;Experienced+Python+Development;Experienced+Cloud+Manager;Experienced+Data+Integrations;Always+learning+new+things" alt="Typing SVG" /></a>
@@ -29,8 +29,10 @@
 
 <br>
 
-<h1 align='center'> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... </h1>
-
+<details>
+  <summary><h1 align='center'> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... </h1></summary>
+  <br>
+  
 
 ```javascript
 
@@ -114,36 +116,42 @@ const eduardoRichard = {
 
 ```
 
-<br>
-
-<h1 align="center">📫 Como falar comigo:</h1>
+</details>
 
 <br>
 
-<p align="center" style="font-size: 1.2rem; line-height: 2.2;">
-  💌 <a href="mailto:eduardorichwrd@gmail.com" style="text-decoration:none; color: inherit;">eduardorichwrd@gmail.com</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  💬 <a href="https://discord.gg/CbsNwUh5wz" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color: inherit;">Discord</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  ✍️ <a href="https://dev.to/richwrd.dev" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color: inherit;">Dev.to</a>
-</p>
+<details>
+  <summary><h1 align="center">📫 Contact me</h1></summary>
+  <br>
+
+  <p align="center" style="font-size: 1.2rem; line-height: 2.2;">
+    💌 <a href="mailto:eduardorichwrd@gmail.com" style="text-decoration:none; color: inherit;">eduardorichwrd@gmail.com</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    💬 <a href="https://discord.gg/CbsNwUh5wz" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color: inherit;">Discord</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    ✍️ <a href="https://dev.to/richwrd.dev" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color: inherit;">Dev.to</a>
+  </p>
+
+</details>
 
 <br>
-
-
-<h1 align='center'> 📈 Estatísticas </h1>
-
+ <details>
+  <summary><h1 align="center"> 📈 Statistics </h1></summary>
+  <br>
+  <div align="center">
+  
+  | <a href="https://github.com/richwrd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=richwrd&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Richwrd's github stats" /></a> | <a href="https://github.com/richwrd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richwrd&layout=compact&theme=merko&hide_border=true" /></a> |
+  | ------------- | ------------- |
+  
+  </div>
+  
+  </details>
 <br>
- 
+ <details>
+  <summary><h1 align="center">🌈 Vibes & Comments 📝</h1></summary>
 
-<div align="center">
-
-| <a href="https://github.com/richwrd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=richwrd&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Richwrd's github stats" /></a> | <a href="https://github.com/richwrd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richwrd&layout=compact&theme=merko&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-</div>
-
-<br>
- 
-<h1 align='center'> 🌈 Vibes & Comments 📝 </h1>
+  <p align="center">
+    Deixe seu comentário ou vibe aqui!  
+    Pode ser um feedback, uma ideia ou apenas um "oi" ✨
+  </p>
 
 
 <br>
@@ -184,6 +192,11 @@ const eduardoRichard = {
 <!-- /Guestbook -->
 
 </div>
+
+
+</details>
+
+
 
 <br>
 
