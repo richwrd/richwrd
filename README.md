@@ -118,6 +118,74 @@ const eduardoRichard = {
 
 ```
 
+### ⚡ Tech Snapshot
+
+```mermaid
+mindmap
+  root((Eduardo Richard - DevOps | DB Admin))
+    ((Languages & Scripts))
+      Python
+      TypeScript
+      SQL
+      PL/pgSQL
+      Bash
+      Zsh
+    ((Frameworks & Libs))
+      NestJS
+      React Expo Go
+      Tkinter
+      SQLAlchemy
+      Pytest
+      Selenium
+    ((Database))
+      DBA (Administração)
+      PostgreSQL
+        Triggers
+        Functions
+        CTE
+        Subquery
+        PostGIS
+        etc
+      PostgreSQL Cluster HA
+        Patroni
+        Pgpool-II
+        Etcd
+    ((DevOps & Infra))
+      Portainer CE
+      CloudFlare DNS
+      Docker
+        Docker Compose
+      NGINX
+      Linux
+        CentOS
+        Debian
+      Oracle
+        VPS
+        VNC
+        Security Group
+      AWS
+        EC2
+        EBS
+        S3
+        Security Group
+      MinIO Object Store
+    ((ETL & Geodata))
+      Ferramentas ETL
+        Pentaho (Kettle)
+        Apache Hadoop 
+      GDAL
+      Mapbox
+    ((Monitoring & Observability))
+      Grafana
+      Prometheus
+      Grafana Agent
+      Grafana Mimir
+      Loki
+    ((Others))
+      JSON
+      Desenvolvimento de Sistemas
+```
+
 </details>
 
 <br>
