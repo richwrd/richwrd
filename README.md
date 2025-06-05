@@ -32,7 +32,7 @@
 <details>
   <summary>
     <h2 align='center'> 
-      <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+      <img src="https://raw.githubusercontent.com/richwrd/richwrd/main/assets/estatistica.gif" alt="Github Stats" width="12%" />
        A little more about me...
     </h2>
   </summary>
@@ -143,7 +143,7 @@ const eduardoRichard = {
 <br>
 
 <details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/richwrd/richwrd/main/assets/estatistica.gif" alt="Github Stats" width="12%" /> Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
 
@@ -240,6 +240,7 @@ const eduardoRichard = {
     </td>
   </tr>
 </table>
+
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://raw.githubusercontent.com/richwrd/richwrd/main/assets/page_footer.svg" alt="Github Footer" width="100%" />
 </p>
