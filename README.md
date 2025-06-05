@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá! Eu sou Eduardo Richard</h1>
-<h3 align="center">DevOps Engineer especializado em PostgreSQL, infraestrutura e automações</h3>
+<h3 align="center">Sou engenheiro de software, apaixonado por DevOps, PostgreSQL HA e automações em Python.</h3>
 
 
 <p align="center">
@@ -138,13 +138,25 @@ Sou um **DevOps Engineer** apaixonado por infraestrutura de alta disponibilidade
 
 ### 📈 Estatísticas
 
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richwrd&layout=compact&theme=tokyonight" alt="Top Langs" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=richwrd&show_icons=true&theme=tokyonight" alt="Stats" />
-</p>
+  <!-- Estatísticas do GitHub -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=richwrd&show_icons=true&theme=tokyonight" 
+    alt="Estatísticas de GitHub de richwrd" 
+    width="45%" 
+    style="max-width: 100%; height: auto; margin: 0 10px;" 
+  />
 
+  <!-- Linguagens mais usadas -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=richwrd&layout=compact&theme=tokyonight" 
+    alt="Linguagens mais usadas por richwrd" 
+    width="45%" 
+    style="max-width: 100%; height: auto; margin: 0 10px;" 
+  />
+
+</div>
 
 ---
 
