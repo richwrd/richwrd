@@ -1,7 +1,10 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%91%8B+Hi!+I%60am+Eduardo+Richard" alt="Typing SVG" /></a></h1>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=B7D364&center=true&vCenter=true&width=435&lines=%2B3+Years+Code+Experience;Experienced+Relational+Databases;Experienced+NestJS+BackEnd;Experienced+Python+Development;Experienced+Cloud+Manager;Experienced+Data+Integrations;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=B7D364&center=true&vCenter=true&width=435&lines=%2B3+Years+Code+Experience;Experienced+Relational+Databases;Experienced+NestJS+BackEnd;Experienced+Python+Development;Experienced+Cloud+Manager;Experienced+Data+Integrations;Always+learning+new+things" alt="Typing SVG" />
+
+</a>
+
 </div>
 
 
@@ -31,9 +34,7 @@
 
 <details>
   <summary>
-    <h2 align='center'> 
-      <img src="https://raw.githubusercontent.com/richwrd/richwrd/main/assets/estatistica.gif" alt="Github Stats" width="12%" />
-       A little more about me...
+    <h2> <img src="https://raw.githubusercontent.com/richwrd/richwrd/main/assets/user_white.gif" alt="Github User" width="8%" />A little more about me...
     </h2>
   </summary>
   <br>
@@ -127,7 +128,7 @@ const eduardoRichard = {
 
 <details>
   <summary>
-    <h2 align="center">📫 Contact Me
+    <h2><img src="https://raw.githubusercontent.com/richwrd/richwrd/main/assets/envelope-send-hover-flying.gif" alt="Envelope" width="8%" /> Contact Me
     </h2>
   </summary>
   <br>
@@ -143,7 +144,11 @@ const eduardoRichard = {
 <br>
 
 <details> 
-  <summary><h2><img src="https://raw.githubusercontent.com/richwrd/richwrd/main/assets/estatistica.gif" alt="Github Stats" width="12%" /> Stats and Activity</h2></summary>
+  <summary>
+    <h2>
+      <img src="https://raw.githubusercontent.com/richwrd/richwrd/main/assets/bar-stats.gif" alt="Github Stats" width="8%" /> Stats and Activity
+    </h2>
+  </summary>
 
   <h3>🔥 Streak Stats</h3>
 
@@ -172,7 +177,7 @@ const eduardoRichard = {
 
 <details>
    <summary>
-    <h2 align="center">📝 Comments
+    <h2><img src="https://raw.githubusercontent.com/richwrd/richwrd/main/assets/comments.gif" alt="Comments" width="8%" /> Comments
     </h2>
   </summary>
 
