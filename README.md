@@ -286,8 +286,8 @@ mindmap
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
+| <a href="https://github.com/richwrd"><img width="24" src="https://avatars.githubusercontent.com/u/93017695?s=24&u=3f5e6b89e3d44a7c101a7706be05e0172726b8a6&v=4" alt="richwrd" /> richwrd</a> |6/5/2025, 5:25:46 AM|curtiu? bora q bora|
 | <a href="https://github.com/KarlaDuarte87"><img width="24" src="https://avatars.githubusercontent.com/u/93801457?s=24&u=cce01f3f8e52555d36694bfdc7322609415f016e&v=4" alt="KarlaDuarte87" /> KarlaDuarte87</a> |6/5/2025, 2:02:23 AM|Boraaaaaa!!!!!|
-| <a href="https://github.com/richwrd"><img width="24" src="https://avatars.githubusercontent.com/u/93017695?s=24&u=3f5e6b89e3d44a7c101a7706be05e0172726b8a6&v=4" alt="richwrd" /> richwrd</a> |6/5/2025, 12:05:28 AM|Muito dhr! slc|
 <!-- /Guestbook -->
 
 </div>
