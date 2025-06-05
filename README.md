@@ -122,29 +122,19 @@ const eduardoRichard = {
 
 <div align="center">
 
-  <!-- Estatísticas do GitHub -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=richwrd&show_icons=true&theme=tokyonight" 
-    alt="Estatísticas de GitHub de richwrd" 
-    width="45%" 
-    style="max-width: 100%; height: auto; margin: 0 10px;" 
-  />
-
-  <!-- Linguagens mais usadas -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=richwrd&layout=compact&theme=tokyonight" 
-    alt="Linguagens mais usadas por richwrd" 
-    width="45%" 
-    style="max-width: 100%; height: auto; margin: 0 10px;" 
-  />
+| <a href="https://github.com/richwrd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=richwrd&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Richwrd's github stats" /></a> | <a href="https://github.com/richwrd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richwrd&layout=compact&theme=merko&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 </div>
+
 
 ---
 
  
-### ⚡ Vibes
+### ⚡ Vibes & Comments
 
+
+<div align="center">
 
 
 <table>
@@ -167,13 +157,19 @@ const eduardoRichard = {
   </tr>
 </table>
 
+</div>
 
+
+<div align="center">
+  
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
 | <a href="https://github.com/KarlaDuarte87"><img width="24" src="https://avatars.githubusercontent.com/u/93801457?s=24&u=cce01f3f8e52555d36694bfdc7322609415f016e&v=4" alt="KarlaDuarte87" /> KarlaDuarte87</a> |6/5/2025, 2:02:23 AM|Boraaaaaa!!!!!|
 | <a href="https://github.com/richwrd"><img width="24" src="https://avatars.githubusercontent.com/u/93017695?s=24&u=3f5e6b89e3d44a7c101a7706be05e0172726b8a6&v=4" alt="richwrd" /> richwrd</a> |6/5/2025, 12:05:28 AM|Muito dhr! slc|
 <!-- /Guestbook -->
+
+</div>
 
 ---
 
