@@ -50,7 +50,8 @@ Sou um **DevOps Engineer** apaixonado por infraestrutura de alta disponibilidade
 
 <div align="center">
 
-🧠 **Linguagens & Frameworks**  
+## 🧠 **Linguagens & Frameworks**  
+
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
@@ -71,9 +72,8 @@ Sou um **DevOps Engineer** apaixonado por infraestrutura de alta disponibilidade
 &nbsp;
 [<img src="https://img.shields.io/badge/Pytest-282C34?logo=pytest&logoColor=0A9EDC" alt="Pytest logo" title="Pytest" height="25" />][tech_tools_anchor]
 
-<br>
+## 🐘 **Banco de Dados & Ferramentas**  
 
-🐘 **Banco de Dados & Ferramentas**  
 [<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=336791" alt="PostgreSQL logo" title="PostgreSQL" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Patroni-282C34?logo=postgresql&logoColor=336791" alt="Patroni logo" title="Patroni" height="25" />][tech_tools_anchor]
@@ -92,9 +92,8 @@ Sou um **DevOps Engineer** apaixonado por infraestrutura de alta disponibilidade
 &nbsp;
 [<img src="https://img.shields.io/badge/Views Materializadas-282C34?logo=postgresql&logoColor=336791" alt="Views logo" title="Views Materializadas" height="25" />][tech_tools_anchor]
 
-<br>
+## 🛠️ **DevOps & Infraestrutura**  
 
-🛠️ **DevOps & Infraestrutura**  
 [<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" />][tech_tools_anchor]
@@ -119,9 +118,8 @@ Sou um **DevOps Engineer** apaixonado por infraestrutura de alta disponibilidade
 &nbsp;
 [<img src="https://img.shields.io/badge/vSphere-282C34?logo=vmware&logoColor=607078" alt="vSphere logo" title="VMware vSphere" height="25" />][tech_tools_anchor]
 
-<br>
+## 📊 **ETL & GIS**  
 
-📊 **ETL & GIS**  
 [<img src="https://img.shields.io/badge/GDAL-282C34?logo=python&logoColor=3776AB" alt="GDAL logo" title="GDAL" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Mapbox-282C34?logo=mapbox&logoColor=000000" alt="Mapbox logo" title="Mapbox" height="25" />][tech_tools_anchor]
