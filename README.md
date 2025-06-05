@@ -33,7 +33,7 @@
   <summary>
     <h1 align='center'> 
       <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5000&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&height=25&lines=+A+little+more+about+me+.+.+." alt="Typing SVG" /></a>
+       A little more about me...
     </h1>
   </summary>
   <br>
@@ -127,8 +127,7 @@ const eduardoRichard = {
 
 <details>
   <summary>
-    <h1 align="center">📫 
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5000&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&height=25&lines=Contact+Me" alt="Typing SVG" /></a>
+    <h1 align="center">📫 Contact Me
     </h1>
   </summary>
   <br>
@@ -144,8 +143,7 @@ const eduardoRichard = {
 <br>
  <details>
    <summary>
-    <h1 align="center">📈 
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5000&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&height=25&lines=Statistics" alt="Typing SVG" /></a>
+    <h1 align="center">📈 Statistics
     </h1>
   </summary>
   <br>
@@ -162,8 +160,7 @@ const eduardoRichard = {
 
  <details>
    <summary>
-    <h1 align="center">📝
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5000&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&height=25&lines=Comments" alt="Typing SVG" /></a>
+    <h1 align="center">📝 Comments
     </h1>
   </summary>
 
