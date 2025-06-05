@@ -1,8 +1,9 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%91%8B+Hi!+I%60am+Eduardo+Richard" alt="Typing SVG" /></a></h1>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=B7D364&center=true&vCenter=true&width=435&lines=%2B3+Years+Code+Experience;Experienced+Relational+Databases;Experienced+NestJS+BackEnd;Experienced+Python+Development;Experienced+Cloud+Manager;Experienced+Data+Integrations;Always+learning+new+things" alt="Typing SVG" />
-
+  
+<a href="https://git.io/typing-svg" >
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=B7D364&center=true&vCenter=true&width=435&lines=%2B3+Years+Code+Experience;Experienced+Relational+Databases;Experienced+NestJS+BackEnd;Experienced+Python+Development;Experienced+Cloud+Manager;Experienced+Data+Integrations;Always+learning+new+things" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,7 +13,8 @@
 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=true" alt="Citação do dia" />
+<!--     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=false" alt="Citação do dia"/> -->
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko&border=false" alt="Citação do dia"/>
   </a>
 </p>
 
