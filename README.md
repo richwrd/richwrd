@@ -13,8 +13,8 @@
 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-<!--     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=false" alt="Citação do dia"/> -->
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko&border=false" alt="Citação do dia"/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=false" alt="Citação do dia"/>
+<!--     <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko&border=false" alt="Citação do dia"/> -->
   </a>
 </p>
 
