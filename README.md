@@ -10,11 +10,12 @@
 
 
 <br>
-
+    
 <p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=false" alt="Citação do dia"/>
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">    <br>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=false&height=120" alt="Citação do dia" style="max-width: 100%; height: auto; margin: 25px 0; display: block;"/>
 <!--     <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko&border=false" alt="Citação do dia"/> -->
+    <br>
   </a>
 </p>
 
@@ -124,7 +125,7 @@ const eduardoRichard = {
 
 ```mermaid
 mindmap
-  root((Eduardo Richard - DevOps | DB Admin))
+  root((Eduardo Richard - DevOps | Data Enginer))
     ((Languages & Scripts))
       Python
       TypeScript
@@ -200,9 +201,9 @@ mindmap
   <br>
 
   <p align="center" style="font-size: 1.2rem; line-height: 2.2;">
-    💌 <a href="mailto:eduardorichwrd@gmail.com" style="text-decoration:none; color: inherit;">eduardorichwrd@gmail.com</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    💌 <a href="mailto:contato@eduardorichard.com" style="text-decoration:none; color: inherit;">contact@eduardorichard.com</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     💬 <a href="https://discord.gg/CbsNwUh5wz" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color: inherit;">Discord</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    ✍️ <a href="https://dev.to/richwrd.dev" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color: inherit;">Dev.to</a>
+    ✍️ <a href="https://richwrd.dev" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color: inherit;">richwrd.dev</a>
   </p>
 
 </details>
@@ -248,8 +249,8 @@ mindmap
   </summary>
 
 <p align="center">
-  Deixe seu comentário ou vibe aqui!  
-  Pode ser um feedback, uma ideia ou apenas um "oi" ✨
+  Leave your comment or vibe here (click on any image)!<br>
+  It can be feedback, an idea, or just a "hi" ✨
 </p>
 
 
@@ -296,10 +297,7 @@ mindmap
 
 </details>
 
-
-
 <br>
-
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 <table align="center">
@@ -312,13 +310,6 @@ mindmap
     </td>
   </tr>
 </table>
-
-<br>
-
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/richwrd/count.svg" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/richwrd/richwrd/main/assets/page_footer.svg" alt="Github Footer" width="100%" />
