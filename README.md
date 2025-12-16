@@ -3,7 +3,7 @@
 <div align="center">
   
 <a href="https://git.io/typing-svg" >
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=B7D364&center=true&vCenter=true&width=435&lines=%2B3+Years+Code+Experience;Experienced+Relational+Databases;Experienced+NestJS+BackEnd;Experienced+Python+Development;Experienced+Cloud+Manager;Experienced+Data+Integrations;Always+learning+new+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=B7D364&center=true&vCenter=true&width=435&lines=%2B4+Years+Code+Experience;Experienced+Relational+Databases;Experienced+NestJS+BackEnd;Experienced+Python+Development;Experienced+Cloud+Manager;Experienced+Data+Integrations;Always+learning+new+things" alt="Typing SVG" />
 </a>
 
 </div>
@@ -21,11 +21,11 @@
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=richwrd&theme=merko&row=1&column=7" alt="richwrd" />
   </a>
-</p>
+</p> -->
 
 
 
