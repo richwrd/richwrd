@@ -1,25 +1,33 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%91%8B+Hi!+I%60am+Eduardo+Richard" alt="Typing SVG" /></a></h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/richwrd/richwrd/main/assets/page_header.svg" alt="Header" width="100%" />
+</p>
+
+
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%91%8B+Hi!+I%27m+Eduardo+Richard" alt="Typing SVG" /></a></h1>
+
+
 
 <div align="center">
-  
+
 <a href="https://git.io/typing-svg" >
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=B7D364&center=true&vCenter=true&width=435&lines=%2B4+Years+Code+Experience;Experienced+Relational+Databases;Experienced+NestJS+BackEnd;Experienced+Python+Development;Experienced+Cloud+Manager;Experienced+Data+Integrations;Always+learning+new+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=06b6d4&center=true&vCenter=true&width=435&lines=%2B4+Years+Building+Software;Python+Developer+%26+Automation;NestJS+Backend+Developer;PostgreSQL+Proficient;Cloud+Native+%26+DevOps;Building+Resilient+Systems;Always+learning+new+things" alt="Typing SVG" />
 </a>
+
 
 </div>
 
+<br>
+
+<div align="center" style="display: flex; justify-content: center; align-items: center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=false&quoteColor=FFFFFF&authorColor=818cf8&backgroundColor=0d1117&symbolColor=06b6d4" alt="Citação do dia" style="max-width: 100%; height: auto; min-height: 200px; display: block;"/>
+</div>
 
 <br>
-    
+<br>
+
 <p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">    <br>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=false&height=120" alt="Citação do dia" style="max-width: 100%; height: auto; margin: 25px 0; display: block;"/>
-<!--     <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko&border=false" alt="Citação do dia"/> -->
-    <br>
-  </a>
+  <img src="https://raw.githubusercontent.com/richwrd/richwrd/main/assets/elements/network_divider.svg" alt="Network Divider" width="100%" />
 </p>
-
-<br>
 
 <!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -28,224 +36,124 @@
 </p> -->
 
 
+<br>
+
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h2 align="center">🛠️ Tech Arsenal</h2>
+
+<h4>💻 Languages & Scripts</h4>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PL%2FpgSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+</p>
+
+<h4>⚙️ Frameworks & Libraries</h4>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/pytest-FFD43B?style=flat-square&logo=pytest&logoColor=black"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+
+<h4>🗄️ Databases & HA</h4>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/etcd-419EDA?style=flat-square&logo=etcd&logoColor=white"/>
+<img src="https://img.shields.io/badge/Patroni-326CE5?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pgpool--II-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostGIS-4EAA25?style=flat-square&logo=postgresql&logoColor=white"/>
+
+<h4>🚀 DevOps & Cloud</h4>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white"/>
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white"/>
+
+<h4>📊 Monitoring & Observability</h4>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+
+<h4>🛠️ Tools, Storage & ETL</h4>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GDAL-5CAE58?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pentaho-D52B1E?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Hop-2E86C1?style=flat-square&logo=apachehop&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+<h2 align="center">📊 Stats</h2>
+
+<p align="center">
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=richwrd&hide_border=true&short_numbers=true&background=0D1117&stroke=06b6d4&ring=06b6d4&fire=22d3ee&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=06b6d4&sideLabels=0891b2&dates=818cf8" alt="Streak Stats" width="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=richwrd&bg_color=0d1117&color=ffffff&title_color=06b6d4&line=06b6d4&point=22d3ee&area=true&area_color=0891b2&hide_border=true&radius=8" alt="Activity Graph" width="100%"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=richwrd&color=06b6d4&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/GitHub_since-2021-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Since 2021"/>
+</p>
+
+
+<!-- <p align="ce nter">
+  <a href="https://github.com/richwrd">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richwrd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  </a>
+</p> -->
+
+
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h2 align="center">📬 Contact</h2>
+<p align="center">
+  <a href="mailto:contact@eduardorichard.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/richwrd">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <!-- <a href="https://discord.gg/CbsNwUh5wz">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a> -->
+  <a href="https://dev.to/richwrd">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+  </a>
+</p>
 
 <br>
 
 <details>
-  <summary>
-    <h2> <img src="https://raw.githubusercontent.com/richwrd/richwrd/main/assets/user_white.gif" alt="Github User" width="8%" />A little more about me...
-    </h2>
-  </summary>
-  <br>
-  
-
-```javascript
-
-const eduardoRichard = {
-  pronouns: "He" | "Him",
-  code: ["Python", "TypeScript", "Bash", "PL/pgSQL"],
-  askMeAbout: [
-    "infraestrutura PostgreSQL HA (3 anos de experiência avançada)",
-    "configuração e manutenção de clusters com Patroni e Pgpool-II",
-    "monitoramento e métricas com Grafana, Prometheus e Loki",
-    "automação de tarefas e rotinas em Python para DBAs",
-    "DevOps com Docker, Kubernetes, AWS EC2 e orquestração de containers",
-    "desenvolvimento back-end (NestJS) e front-end (React Native)",
-    "modelagem e otimização de banco de dados PostgreSQL",
-    "extensões PostgreSQL avançadas como PostGIS e triggers customizadas",
-  ],
-  technologies: {
-    frontEnd: {
-      js: ["React Native"],
-      frameworks: ["Expo Go"],
-      styling: ["css","tailwind"],
-    },
-    backEnd: {
-      js: ["NestJS"],
-      python: ["Flask (occasionally)", "Tkinter (GUI)"],
-    },
-    mobileApp: {
-      crossPlatform: ["React Native"],
-    },
-    devOps: [
-      "Docker",
-      "Docker Compose",
-      "Nginx",
-      "AWS EC2",
-      "AWS S3",
-      "Oracle VPS",
-      "Grafana Agent",
-      "Grafana Mimir",
-      "Prometheus",
-      "Loki",
-      "etcd",
-      "Kubernetes (básico)",
-    ],
-    databases: [
-      "PostgreSQL (3 anos experiência avançada)",
-      "MySQL (3 anos experiência avançada)",
-      "Patroni (failover automático e HA)",
-      "Pgpool-II (balanceamento de carga e Watchdog)",
-      "PostGIS (geoprocessamento e análise espacial)",
-      "SQLAlchemy (integração e ORM Python)",
-      "Triggers e funções PL/pgSQL customizadas",
-      "MinIO e S3 (armazenamento de objetos)",
-    ],
-    misc: [
-      "Zsh",
-      "JSON",
-      "GDAL",
-      "Mapbox",
-      "Jasper Reports",
-      "Ferramentas ETL",
-    ],
-  },
-  architecture: {
-    frontEnd: ["SPA", "Mobile Apps"],
-    backEnd: ["Microservices", "Monolithic"],
-    devOps: [
-      "Alta disponibilidade e tolerância a falhas",
-      "CI/CD com Docker e Kubernetes",
-      "Infraestrutura como código",
-    ],
-    databases: [
-      "Modelagem relacional avançada",
-      "Replicação síncrona e assíncrona no PostgreSQL",
-      "Backup e recuperação com pgBackRest",
-      "Escalabilidade e performance em clusters",
-    ],
-  },
-  currentFocus: "Criar infra PostgreSQL HA robusta com monitoramento e automação eficiente",
-  funFact: "Consigo debugar clusters complexos enquanto tomo café ☕️",
-};
-
-```
-
-### ⚡ Tech Snapshot
-
-```mermaid
-mindmap
-  root((Eduardo Richard - DevOps | Data Enginer))
-    ((Languages & Scripts))
-      Python
-      TypeScript
-      SQL
-      PL/pgSQL
-      Bash
-      Zsh
-    ((Frameworks & Libs))
-      NestJS
-      React Expo Go
-      Tkinter
-      SQLAlchemy
-      Pytest
-      Selenium
-    ((Database))
-      DBA (Administração)
-      PostgreSQL
-        Triggers
-        Functions
-        CTE
-        Subquery
-        PostGIS
-        etc
-      PostgreSQL Cluster HA
-        Patroni
-        Pgpool-II
-        Etcd
-    ((DevOps & Infra))
-      Portainer CE
-      CloudFlare DNS
-      Docker
-        Docker Compose
-      NGINX
-      Linux
-        CentOS
-        Debian
-      Oracle
-        VPS
-        VNC
-        Security Group
-      AWS
-        EC2
-        EBS
-        S3
-        Security Group
-      MinIO Object Store
-    ((ETL & Geodata))
-      Ferramentas ETL
-        Pentaho (Kettle)
-        Apache Hadoop 
-      GDAL
-      Mapbox
-    ((Monitoring & Observability))
-      Grafana
-      Prometheus
-      Grafana Agent
-      Grafana Mimir
-      Loki
-    ((Others))
-      JSON
-      Desenvolvimento de Sistemas
-```
-
-</details>
-
-<br>
-
-<details>
-  <summary>
-    <h2><img src="https://raw.githubusercontent.com/richwrd/richwrd/main/assets/envelope-send-hover-flying.gif" alt="Envelope" width="8%" /> Contact Me
-    </h2>
-  </summary>
-  <br>
-
-  <p align="center" style="font-size: 1.2rem; line-height: 2.2;">
-    💌 <a href="mailto:contato@eduardorichard.com" style="text-decoration:none; color: inherit;">contact@eduardorichard.com</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    💬 <a href="https://discord.gg/CbsNwUh5wz" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color: inherit;">Discord</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    ✍️ <a href="https://richwrd.dev" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color: inherit;">richwrd.dev</a>
-  </p>
-
-</details>
-
-<br>
-
-<details> 
-  <summary>
-    <h2>
-      <img src="https://raw.githubusercontent.com/richwrd/richwrd/main/assets/bar-stats.gif" alt="Github Stats" width="8%" /> Stats and Activity
-    </h2>
-  </summary>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <p>
-    <a href="https://github.com/richwrd/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Richwrd's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=richwrd&theme=merko&hide_border=true&short_numbers=true"/>
-    </a>
-   <blockquote>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></blockquote>
-  </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Richwrd's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=richwrd&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Richwrd's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richwrd&langs_count=8&layout=compact&theme=merko&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-
-  <blockquote>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</blockquote>
-  
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Richwrd's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=richwrd&theme=merko&point=FFFFFF&hide_border=true&radius=10" /></a>
-
-</details>
-<br>
-
-<details>
-   <summary>
-    <h2><img src="https://raw.githubusercontent.com/richwrd/richwrd/main/assets/comments.gif" alt="Comments" width="8%" /> Comments
-    </h2>
+  <summary align="center">
+    <h2 align="center"><img src="https://raw.githubusercontent.com/richwrd/richwrd/main/assets/gif/comments.gif" alt="Comments" width="8%" style="vertical-align: middle;" /> Comments</h2>
   </summary>
 
 <p align="center">
@@ -266,16 +174,6 @@ mindmap
        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTM2b2d2MGtieXd3MDcxYmVqdmVwendleGZvbng0dG1kcWRwdHM3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sJFJMtc02OUSaReO0M/giphy.gif" alt="vibe" width="300" />
       </a>
     </td>
-    <td>
-      <a href="https://github.com/richwrd/richwrd/issues/1" target="_blank">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGYzZTQwODJtZmh2OWRsYXg2dnAyZjFjY3ltMXJkNHE4MTlsdTBvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ydMElLbfD72yA/giphy.gif" alt="energy" width="300" />
-      </a>
-    </td>
-<!--     <td>
-      <a href="https://github.com/richwrd/richwrd/issues/1" target="_blank">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQyZHE4b3pxeGV2anBkdHZoeXZpc3V3OG55NWt5amd0bHluZmd1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/56ikf9jD4ZK6s/giphy.gif" alt="cat" width="300" />
-      </a>
-    </td> -->
   </tr>
 </table>
 
@@ -301,8 +199,8 @@ mindmap
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 <table align="center">
-  <tr>
-    <th>⏰ UTC Time</th>
+  <tr align="center">
+    <th style="text-align: center;">⏰ UTC Time</th>
   </tr>
   <tr>
     <td align="center">
