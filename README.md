@@ -11,7 +11,6 @@
 </div>
 
 
-
 <div align="center">
 
 <a href="https://git.io/typing-svg" >
@@ -54,6 +53,7 @@
 </p>
 
 <h4>⚙️ Frameworks & Libraries</h4>
+<p>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
@@ -64,8 +64,10 @@
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
 <img src="https://img.shields.io/badge/pytest-FFD43B?style=flat-square&logo=pytest&logoColor=black"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+</p>
 
 <h4>🗄️ Databases & HA</h4>
+<p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
@@ -73,8 +75,10 @@
 <img src="https://img.shields.io/badge/Patroni-326CE5?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pgpool--II-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostGIS-4EAA25?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
 <h4>🚀 DevOps & Cloud</h4>
+<p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
@@ -86,18 +90,23 @@
 <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white"/>
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white"/>
+</p>
 
 <h4>📊 Monitoring & Observability</h4>
+<p>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+</p>
 
 <h4>🛠️ Tools, Storage & ETL</h4>
+<p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GDAL-5CAE58?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pentaho-D52B1E?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache_Hop-2E86C1?style=flat-square&logo=apachehop&logoColor=white"/>
+</p>
 
 
 <h2 align="center">📊 Stats</h2>
