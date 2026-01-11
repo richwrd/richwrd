@@ -17,8 +17,6 @@
 <a href="https://git.io/typing-svg" >
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=06b6d4&center=true&vCenter=true&width=435&lines=%2B4+Years+Building+Software;Python+Developer+%26+Automation;NestJS+Backend+Developer;PostgreSQL+Proficient;Cloud+Native+%26+DevOps;Building+Resilient+Systems;Always+learning+new+things" alt="Typing SVG" />
 </a>
-
-
 </div>
 
 <br>
@@ -29,9 +27,6 @@
   </div>
 </div>
 
-
-<br>
-<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/richwrd/richwrd/main/assets/network_divider.svg" alt="Network Divider" width="100%" />
@@ -46,10 +41,6 @@
 
 <br>
 
-
-<table border="0" cellspacing="0" cellpadding="10" style="border: none;">
-<tr>
-<td width="60%" valign="top" style="border: none;">
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
@@ -108,29 +99,25 @@
 <img src="https://img.shields.io/badge/Pentaho-D52B1E?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache_Hop-2E86C1?style=flat-square&logo=apachehop&logoColor=white"/>
 
-</td>
-<td width="40%" valign="top" style="border: none;">
 
 <h2 align="center">📊 Stats</h2>
 
-<p align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=richwrd&hide_border=true&short_numbers=true&background=0D1117&stroke=06b6d4&ring=06b6d4&fire=22d3ee&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=06b6d4&sideLabels=0891b2&dates=818cf8" alt="Streak Stats" width="100%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=richwrd&bg_color=0d1117&color=ffffff&title_color=06b6d4&line=06b6d4&point=22d3ee&area=true&area_color=0891b2&hide_border=true&radius=8" alt="Activity Graph" width="100%"/>
-</p>
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=richwrd&hide_border=true&short_numbers=true&background=0D1117&stroke=06b6d4&ring=06b6d4&fire=22d3ee&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=06b6d4&sideLabels=0891b2&dates=818cf8" alt="Streak Stats" width="100%"/>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=richwrd&bg_color=0d1117&color=ffffff&title_color=06b6d4&line=06b6d4&point=22d3ee&area=true&area_color=0891b2&hide_border=true&radius=8" alt="Activity Graph" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 <!-- <p align="ce nter">
   <a href="https://github.com/richwrd">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richwrd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   </a>
 </p> -->
-
-
-</td>
-</tr>
-</table>
 
 <br>
 
