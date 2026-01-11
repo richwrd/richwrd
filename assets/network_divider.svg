@@ -1,0 +1,156 @@
+<svg viewBox="0 0 1000 80" xmlns="http://www.w3.org/2000/svg">
+<style>
+  .node-primary {
+    fill: #06b6d4;
+  }
+  .node-secondary {
+    fill: #0891b2;
+    opacity: 0.7;
+  }
+  .node-tertiary {
+    fill: #06b6d4;
+    opacity: 0.4;
+  }
+  .line {
+    stroke: #22d3ee;
+    stroke-width: 1;
+    opacity: 0.5;
+  }
+  .line-dim {
+    stroke: #0891b2;
+    stroke-width: 0.6;
+    opacity: 0.25;
+  }
+  .pulse {
+    fill: none;
+    stroke: #22d3ee;
+    stroke-width: 1.2;
+  }
+</style>
+
+<!-- Conexões secundárias (fundo - aleatoriedade orgânica) -->
+<g class="connections-dim">
+  <line class="line-dim" x1="50" y1="40" x2="85" y2="18"/>
+  <line class="line-dim" x1="85" y1="18" x2="150" y2="40"/>
+  <line class="line-dim" x1="150" y1="40" x2="190" y2="58"/>
+  <line class="line-dim" x1="190" y1="58" x2="250" y2="35"/>
+  <line class="line-dim" x1="380" y1="45" x2="430" y2="22"/>
+  <line class="line-dim" x1="430" y1="22" x2="480" y2="40"/>
+  <line class="line-dim" x1="580" y1="38" x2="640" y2="62"/>
+  <line class="line-dim" x1="640" y1="62" x2="700" y2="42"/>
+  <line class="line-dim" x1="820" y1="35" x2="880" y2="20"/>
+  <line class="line-dim" x1="880" y1="20" x2="950" y2="40"/>
+</g>
+
+<!-- Conexões principais -->
+<g class="connections">
+  <line class="line" x1="50" y1="40" x2="150" y2="40">
+    <animate attributeName="opacity" values="0.4;0.85;0.4" dur="2.5s" repeatCount="indefinite"/>
+  </line>
+  <line class="line" x1="150" y1="40" x2="250" y2="35">
+    <animate attributeName="opacity" values="0.4;0.85;0.4" dur="3s" repeatCount="indefinite" begin="0.3s"/>
+  </line>
+  <line class="line" x1="250" y1="35" x2="380" y2="45">
+    <animate attributeName="opacity" values="0.4;0.85;0.4" dur="2.8s" repeatCount="indefinite" begin="0.6s"/>
+  </line>
+  <line class="line" x1="380" y1="45" x2="480" y2="40">
+    <animate attributeName="opacity" values="0.4;0.85;0.4" dur="3.2s" repeatCount="indefinite" begin="0.9s"/>
+  </line>
+  <line class="line" x1="480" y1="40" x2="580" y2="38">
+    <animate attributeName="opacity" values="0.4;0.85;0.4" dur="2.6s" repeatCount="indefinite" begin="1.2s"/>
+  </line>
+  <line class="line" x1="580" y1="38" x2="700" y2="42">
+    <animate attributeName="opacity" values="0.4;0.85;0.4" dur="3s" repeatCount="indefinite" begin="1.5s"/>
+  </line>
+  <line class="line" x1="700" y1="42" x2="820" y2="35">
+    <animate attributeName="opacity" values="0.4;0.85;0.4" dur="2.8s" repeatCount="indefinite" begin="1.8s"/>
+  </line>
+  <line class="line" x1="820" y1="35" x2="950" y2="40">
+    <animate attributeName="opacity" values="0.4;0.85;0.4" dur="3.2s" repeatCount="indefinite" begin="2.1s"/>
+  </line>
+</g>
+
+<!-- Pulsos de transmissão (ondas expandindo) -->
+<g class="pulses">
+  <!-- Hub 1 -->
+  <circle class="pulse" cx="50" cy="40" r="4" opacity="0">
+    <animate attributeName="r" values="4;18" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle class="pulse" cx="50" cy="40" r="4" opacity="0">
+    <animate attributeName="r" values="4;18" dur="2.5s" repeatCount="indefinite" begin="1.25s"/>
+    <animate attributeName="opacity" values="0.6;0" dur="2.5s" repeatCount="indefinite" begin="1.25s"/>
+  </circle>
+  
+  <!-- Hub 2 -->
+  <circle class="pulse" cx="250" cy="35" r="5" opacity="0">
+    <animate attributeName="r" values="5;22" dur="3s" repeatCount="indefinite" begin="0.4s"/>
+    <animate attributeName="opacity" values="0.55;0" dur="3s" repeatCount="indefinite" begin="0.4s"/>
+  </circle>
+  <circle class="pulse" cx="250" cy="35" r="5" opacity="0">
+    <animate attributeName="r" values="5;22" dur="3s" repeatCount="indefinite" begin="1.9s"/>
+    <animate attributeName="opacity" values="0.55;0" dur="3s" repeatCount="indefinite" begin="1.9s"/>
+  </circle>
+  
+  <!-- Hub central -->
+  <circle class="pulse" cx="480" cy="40" r="5" opacity="0">
+    <animate attributeName="r" values="5;25" dur="2.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle class="pulse" cx="480" cy="40" r="5" opacity="0">
+    <animate attributeName="r" values="5;25" dur="2.8s" repeatCount="indefinite" begin="0.93s"/>
+    <animate attributeName="opacity" values="0.7;0" dur="2.8s" repeatCount="indefinite" begin="0.93s"/>
+  </circle>
+  <circle class="pulse" cx="480" cy="40" r="5" opacity="0">
+    <animate attributeName="r" values="5;25" dur="2.8s" repeatCount="indefinite" begin="1.86s"/>
+    <animate attributeName="opacity" values="0.7;0" dur="2.8s" repeatCount="indefinite" begin="1.86s"/>
+  </circle>
+  
+  <!-- Hub 4 -->
+  <circle class="pulse" cx="700" cy="42" r="5" opacity="0">
+    <animate attributeName="r" values="5;22" dur="3.2s" repeatCount="indefinite" begin="0.6s"/>
+    <animate attributeName="opacity" values="0.55;0" dur="3.2s" repeatCount="indefinite" begin="0.6s"/>
+  </circle>
+  <circle class="pulse" cx="700" cy="42" r="5" opacity="0">
+    <animate attributeName="r" values="5;22" dur="3.2s" repeatCount="indefinite" begin="2.2s"/>
+    <animate attributeName="opacity" values="0.55;0" dur="3.2s" repeatCount="indefinite" begin="2.2s"/>
+  </circle>
+  
+  <!-- Hub 5 -->
+  <circle class="pulse" cx="950" cy="40" r="4" opacity="0">
+    <animate attributeName="r" values="4;18" dur="2.5s" repeatCount="indefinite" begin="0.8s"/>
+    <animate attributeName="opacity" values="0.6;0" dur="2.5s" repeatCount="indefinite" begin="0.8s"/>
+  </circle>
+  <circle class="pulse" cx="950" cy="40" r="4" opacity="0">
+    <animate attributeName="r" values="4;18" dur="2.5s" repeatCount="indefinite" begin="2.05s"/>
+    <animate attributeName="opacity" values="0.6;0" dur="2.5s" repeatCount="indefinite" begin="2.05s"/>
+  </circle>
+</g>
+
+<!-- Nós terciários (estáticos, posições orgânicas) -->
+<g class="nodes-tertiary">
+  <circle class="node-tertiary" cx="85" cy="18" r="1.5"/>
+  <circle class="node-tertiary" cx="190" cy="58" r="1.5"/>
+  <circle class="node-tertiary" cx="430" cy="22" r="1.5"/>
+  <circle class="node-tertiary" cx="640" cy="62" r="1.5"/>
+  <circle class="node-tertiary" cx="880" cy="20" r="1.5"/>
+</g>
+
+<!-- Nós secundários (estáticos, na linha principal) -->
+<g class="nodes-secondary">
+  <circle class="node-secondary" cx="150" cy="40" r="3"/>
+  <circle class="node-secondary" cx="380" cy="45" r="3"/>
+  <circle class="node-secondary" cx="580" cy="38" r="3"/>
+  <circle class="node-secondary" cx="820" cy="35" r="3"/>
+</g>
+
+<!-- Nós principais (estáticos) -->
+<g class="nodes-primary">
+  <circle class="node-primary" cx="50" cy="40" r="4"/>
+  <circle class="node-primary" cx="250" cy="35" r="5"/>
+  <circle class="node-primary" cx="480" cy="40" r="5.5"/>
+  <circle class="node-primary" cx="700" cy="42" r="5"/>
+  <circle class="node-primary" cx="950" cy="40" r="4"/>
+</g>
+
+</svg>

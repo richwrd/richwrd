@@ -3,7 +3,12 @@
 </p>
 
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%91%8B+Hi!+I%27m+Eduardo+Richard" alt="Typing SVG" /></a></h1>
+<div align="center" style="height: 120px;">
+  <h1 style="margin: 0; padding: 0;">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=9999999&color=06b6d4&center=true&vCenter=true&repeat=false&width=450&lines=%F0%9F%91%8B+Hi!+I%27m+Eduardo+Richard" alt="Typing SVG" /></a>
+  </h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=9999999&delay=4000&color=06b6d4&center=true&vCenter=true&repeat=false&width=250&lines=Software+Engineer" alt="Typing SVG" /></a>
+</div>
 
 
 
@@ -18,15 +23,18 @@
 
 <br>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=false&quoteColor=FFFFFF&authorColor=818cf8&backgroundColor=0d1117&symbolColor=06b6d4" alt="Citação do dia" style="max-width: 100%; height: auto; min-height: 200px; display: block;"/>
+<div align="center" valign="middle" style="padding: 50px 0;">
+  <div style="width: 100%; max-width: 500px; height: 250px; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=FFFFFF&authorColor=06b6d4&backgroundColor=0d1117&symbolColor=06b6d4" alt="Citação do dia" style="max-width: 100%; height: auto; min-height: 200px"/>
+  </div>
 </div>
+
 
 <br>
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/richwrd/richwrd/main/assets/elements/network_divider.svg" alt="Network Divider" width="100%" />
+  <img src="https://raw.githubusercontent.com/richwrd/richwrd/main/assets/network_divider.svg" alt="Network Divider" width="100%" />
 </p>
 
 <!-- <p align="center">
@@ -39,9 +47,9 @@
 <br>
 
 
-<table>
+<table border="0" cellspacing="0" cellpadding="10" style="border: none;">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top" style="border: none;">
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
@@ -101,7 +109,7 @@
 <img src="https://img.shields.io/badge/Apache_Hop-2E86C1?style=flat-square&logo=apachehop&logoColor=white"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top" style="border: none;">
 
 <h2 align="center">📊 Stats</h2>
 
@@ -113,18 +121,11 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=richwrd&bg_color=0d1117&color=ffffff&title_color=06b6d4&line=06b6d4&point=22d3ee&area=true&area_color=0891b2&hide_border=true&radius=8" alt="Activity Graph" width="100%"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=richwrd&color=06b6d4&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/GitHub_since-2021-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Since 2021"/>
-</p>
-
-
 <!-- <p align="ce nter">
   <a href="https://github.com/richwrd">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richwrd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   </a>
 </p> -->
-
 
 
 </td>
@@ -138,7 +139,7 @@
   <a href="mailto:contact@eduardorichard.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/richwrd">
+  <a href="https://linkedin.com/in/eduardorichard">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <!-- <a href="https://discord.gg/CbsNwUh5wz">
@@ -150,6 +151,10 @@
 </p>
 
 <br>
+
+<!-- Comments
+# Ative para adicionar comentarios
+# Descomente GitHub Actions para ativar os comentarios automaticamente
 
 <details>
   <summary align="center">
@@ -182,32 +187,44 @@
 
 <div align="center">
   
-<!-- Guestbook -->
+Guestbook 
 | Name | Date | Message |
 |---|---|---|
 | <a href="https://github.com/lvcas-dotcom"><img width="24" src="https://avatars.githubusercontent.com/u/134722316?s=24&u=459dd8341296e1b178654d996b7b4bee18ba808e&v=4" alt="lvcas-dotcom" /> lvcas-dotcom</a> |6/5/2025, 2:10:53 PM|Brabo!|
 | <a href="https://github.com/richwrd"><img width="24" src="https://avatars.githubusercontent.com/u/93017695?s=24&u=3f5e6b89e3d44a7c101a7706be05e0172726b8a6&v=4" alt="richwrd" /> richwrd</a> |6/5/2025, 5:25:46 AM|curtiu? bora q bora|
 | <a href="https://github.com/KarlaDuarte87"><img width="24" src="https://avatars.githubusercontent.com/u/93801457?s=24&u=cce01f3f8e52555d36694bfdc7322609415f016e&v=4" alt="KarlaDuarte87" /> KarlaDuarte87</a> |6/5/2025, 2:02:23 AM|Boraaaaaa!!!!!|
-<!-- /Guestbook -->
+/Guestbook 
 
 </div>
-
-
 </details>
+-->
 
 <br>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-<table align="center">
+
+
+<br>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=richwrd&color=06b6d4&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/GitHub_since-2021-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Since 2021"/>
+</p>
+
+<br>
+
+
+<table align="center" border="0" cellspacing="0" cellpadding="10" style="border: none;">
   <tr align="center">
-    <th style="text-align: center;">⏰ UTC Time</th>
+    <th style="text-align: center; border: none;">⏰ UTC Time</th>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img src="https://jojoee.jojoee.com/api/utcnowgif?utcnow" alt="Current UTC time" />
     </td>
   </tr>
 </table>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/richwrd/richwrd/main/assets/page_footer.svg" alt="Github Footer" width="100%" />
